@@ -1,0 +1,20 @@
+body{
+    background-color:rgb(247, 221, 247);
+}
+hr{
+    background-color:rgb(247, 221, 247);
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color:grey;
+    border-width: 4px;
+   
+}
+h1{
+    color: #66BFBF;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color:#66BFBF;
+    font-family:'Times New Roman', Times, serif;
+}
